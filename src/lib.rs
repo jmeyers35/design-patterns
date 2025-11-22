@@ -4,5 +4,6 @@ pub mod command;
 pub mod composite;
 pub mod decorator;
 pub mod factory;
+pub mod factory_method;
 pub mod strategy;
 pub mod visitor;
